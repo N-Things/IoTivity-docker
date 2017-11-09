@@ -1,4 +1,4 @@
-FROM nthings/iotivity
+FROM thiagogcm/iotivity-base
 
 COPY runner.py /home/iot
 
